@@ -1,8 +1,29 @@
 # test maybe lab maybe 11:57 12.09.2024 
-# ***Remember no russian***
+### ***Remember no russian***
+
+
+---
+# Отчёт
+### Задание
+1. Создать репозиторий на GitHub
+2. Склонировать его на пк
+3. Скачать и распаковать архив
+4. написать отчёт в **Readme.md**
+5. Commit and Push
+
+
+### Описание проделанной работы
+1. Создал репозиторий на GitHub
+2. Создал на GitHub токкен
+3. Склонировал репозиторий на пк
+2. Скачал и распаковал архив
+3. Написал, скомпелировал и запустил программу **Hello.c**
+3. Написал отчёт в **Readme.md**
+4. Commit and Push
+
+
+---
 # GitHub instruction
-
-
 ### New GitHub repository
 1. git init
 2. git add ***Name***                (add file to files to push)
@@ -29,7 +50,19 @@
     4. Password: ***Git tokken***
 
 
+# cmpiler
+1. gcc ***Name of code*** -o ***Name of result*** (компилирует код, -o ***Name of result*** позволяет назвать файл с результатом работы программы)
+2. ./***Name of result*** (Open file with results of programm work)
+
+
+
+
+
+
+---
 # chernovik
-ls - list of files
-cd .. - exit of file
-cd ***Name*** - enter ***Name***
+ls - list of files  
+cd .. - exit of file  
+cd ***Name*** - enter ***Name***  
+mkdir ***Name*** (create)  
+rm -r ***Name*** (delete)  
