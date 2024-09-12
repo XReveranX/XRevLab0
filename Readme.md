@@ -22,3 +22,7 @@
 1. 2.   git add . (all files)
 2. git commit -m "info"
 3. git push
+    1. press acept?
+    2. OR
+    3. Username: MyGitExampleName
+    4. Password: ***Git tokken***
