@@ -1,4 +1,5 @@
 # test maybe lab maybe 11:57 12.09.2024 
+# ***Remember no russian***
 # GitHub instruction
 
 
@@ -22,7 +23,13 @@
 1. 2.   git add .                    (all files)
 2. git commit -m "info"              (***Remember no russian***)
 3. git push                          (you now it, right?)(7.x(Up) if you not)
-    1. press acept?
+    1. press accept?
     2. OR
     3. Username: MyGitExampleName
     4. Password: ***Git tokken***
+
+
+# chernovik
+ls - list of files
+cd .. - exit of file
+cd ***Name*** - enter ***Name***
