@@ -50,10 +50,17 @@
     4. Password: ***Git tokken***
 
 
-# cmpiler
-1. gcc ***Name of code*** -o ***Name of result*** (компилирует код, -o ***Name of result*** позволяет назвать файл с результатом работы программы)
+# compiler
+1. gcc ***Name of file with code*** -o ***Name of result*** (компилирует код, -o ***Name of result*** позволяет назвать файл с результатом работы программы)
 2. ./***Name of result*** (Open file with results of programm work)
 
+### levels of compiler
+1. gcc ***Name of file with code*** -E (-E Останавливает компиляцию на этапе Препроцессинга)
+![](Comp_E_scr.png)
+2. gcc ***Name of file with code*** -S (-S Останавливает компиляцию на этапе Ассемблерного кода)
+![](Comp_S_scr.png)
+3. gcc ***Name of file with code*** -Os (-Os Останавливает компиляцию на этапе Ассемблирования)
+![](Comp_Os_scr.png)
 
 # Screenshots
 
