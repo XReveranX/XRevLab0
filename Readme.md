@@ -41,10 +41,10 @@
 ### Already have GitHub repository
 0. git clone url                     (on new pc)
 1. 1. git add ***Name***             (just ***Name*** file)
-1. 2.   git add .                    (all files)
-2. git commit -m "info"              (***Remember no russian***)
+   2.   git add .                    (all files)
+2. git commit -m "***info about changes***"   (***Remember no russian***)
 3. git push                          (you now it, right?)(7.x(Up) if you not)
-    1. press accept?
+4.  1. press accept?
     2. OR
     3. Username: MyGitExampleName
     4. Password: ***Git tokken***
