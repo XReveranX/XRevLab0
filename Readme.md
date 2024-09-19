@@ -62,6 +62,12 @@
 3. gcc ***Name of file with code*** -Os (-Os Останавливает компиляцию на этапе Ассемблирования)
 ![](Comp_Os_scr.png)
 
+### How open hello.c
+1. open hello.c with VSCodium
+2. open Terminal
+2. gcc hello.c -o Hi 
+3. ./Hi
+
 # Screenshots
 
 Репозиторий на GitHub
