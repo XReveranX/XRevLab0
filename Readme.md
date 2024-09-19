@@ -55,8 +55,15 @@
 2. ./***Name of result*** (Open file with results of programm work)
 
 
+# Screenshots
 
+Репозиторий на GitHub
+![](GitScreen.png)
 
+---
+
+Helloy world
+![](HiWorldScreen.png)
 
 
 ---
